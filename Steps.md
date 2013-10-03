@@ -1,5 +1,6 @@
 In JOSM 5932:
-1. Download data from OpenStreetMap.org or the OSM Task Manager
+
+1.  Download data from OpenStreetMap.org or the OSM Task Manager
 
 2.  Open SLO_ADDR_PTS.osm, found in X:\_data\Population\AddressPoints_to_OSM\ogr2osm
 
