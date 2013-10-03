@@ -21,3 +21,5 @@ In JOSM 5932:
 
 7.  In the conflation window select a record and hit Ctrl+A to select all and then hit Conflate.
     *Never conflate a single-match.  There is a bug in the plugin that will crash JOSM if you try to only conflate one match.  To avoid this you can select the address point and building manually and also select a building and address that have already been conflated.  Then highlight both of these matches and conflate them.
+
+8.  Now you can upload the edited data layer to OSM.
