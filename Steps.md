@@ -7,7 +7,7 @@ In JOSM 5932:
 3.  Use the search tool to search for: building=*
     -This will select all polygons tagged as buildings.
 
-4.  Next remove all buildings with addresses already by searching: "addr:housenumber"
+4.  Next remove all buildings with addresses already by searching: "addr:housenumber" (be sure to include the "")
     -This will remove all the buildings that already have addresses and leave only those buildings that did not get conflated.
 
 5.  Turn on the SLO_ADDR_PTS layer and select the appropiate addresses that match the selected buildings.
